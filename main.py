@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 def run():
     """
     Main function run that visualizes the data.
-    
+
     :return:
     """
     pcap_data = pd.read_csv('packet_metadata.csv', index_col='No.')
