@@ -1,4 +1,4 @@
-#Scanner Vizualizer
+# Scanner Vizualizer
 
 This program takes in pcap data from Wireshark, and displays a count of the different packet types that were sent in the given file.
 
